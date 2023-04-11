@@ -1,7 +1,7 @@
 # Era-Web
 This project build by using `HTMl5` and `CSS3`. (fully responsive)
 
-## Demo 
+## Preview 
 ### [Era-Web](https://era-web-ten.vercel.app/)
 
 
